@@ -12,4 +12,4 @@ password list maker ([WX_SaD](https://t.me/SaDWX/))
 `python3 PaSsWoRdLiSt-MaKeR`
 ## Installation commands in one line
 `pkg install python3 -y && pkg install git && git clone https://github.com/WIROUX/PaSsLiSt-MaKeR && cd PaSsLiSt-MaKeR && python3 PaSsWoRdLiSt-MaKeR`
-![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
+![GitHub Light](https://github.com/github-dark.png#gh-dark-mode-only)
