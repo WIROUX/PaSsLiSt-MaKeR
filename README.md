@@ -1,5 +1,5 @@
 # PaSsLiSt-MaKeR
-password list maker [WX_SaD] (https://t.me/SaDWX)
+password list maker [WX_SaD] (https://t.me/SaDWX/).
 ## Installation
 `pkg install python3 -y`
 
