@@ -1,5 +1,5 @@
 # PaSsLiSt-MaKeR
-password list maker ([WX_SaD](https://t.me/SaDWX/))
+password list maker ([SADWX](https://t.me/ridam_dash/))
 ## Installation
 `pkg install python3 -y`
 
@@ -9,6 +9,6 @@ password list maker ([WX_SaD](https://t.me/SaDWX/))
 
 `cd PaSsLiSt-MaKeR`
 
-`python3 PaSsWoRdLiSt-MaKeR`
+`python3 passwordlist-maker.py`
 ## Installation commands in one line
-```pkg install python3 -y && pkg install git && git clone https://github.com/WIROUX/PaSsLiSt-MaKeR && cd PaSsLiSt-MaKeR && python3 PaSsWoRdLiSt-MaKeR.py```
+```pkg install python3 -y && pkg install git && git clone https://github.com/WIROUX/PaSsLiSt-MaKeR && cd PaSsLiSt-MaKeR && python3 passwordlist-maker.py```
